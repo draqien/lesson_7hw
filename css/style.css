@@ -276,6 +276,18 @@ h1 {
   flex-direction: column;
   gap: 10px;
 }
+.footer__link1:hover {
+  color: var(--primary-active-color);
+}
+.footer__link2:hover {
+  color: var(--primary-active-color);
+}
+.footer__mail:hover {
+  color: var(--primary-active-color);
+}
+.footer__phone:hover {
+  color: var(--primary-active-color);
+}
 .footer__contacts strong {
   color: #ffffff;
   margin-bottom: 4px;
